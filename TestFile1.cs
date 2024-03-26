@@ -1,0 +1,2 @@
+//create substring frinction
+
